@@ -81,4 +81,7 @@ diff に不要な変更が減る
 実装後ではなく、ミスをする前に確認質問が行われるようになること
 
 # Agent skill
+
+Anthropic 社の公式 skills 15選
+
 https://dev.classmethod.jp/articles/try-agent-skills-anthropic-samples/
