@@ -85,3 +85,7 @@ diff に不要な変更が減る
 Anthropic 社の公式 skills 15選
 
 https://dev.classmethod.jp/articles/try-agent-skills-anthropic-samples/
+
+superpowers
+
+https://qiita.com/nogataka/items/c2e73515e65533986421
