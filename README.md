@@ -89,3 +89,14 @@ https://dev.classmethod.jp/articles/try-agent-skills-anthropic-samples/
 superpowers
 
 https://qiita.com/nogataka/items/c2e73515e65533986421
+
+# SLIDE.md
+
+SLIDE.md 実践ガイド｜インストールからスライド生成まで完全ガイド
+https://x.com/sho_ai_magic/status/2068443241582866594
+
+SLIDE.md｜AI時代のスライド専用デザインシステム爆誕！！
+https://x.com/sho_ai_magic/status/2064124393362768141
+
+SLIDE.md + SLIDE-PATTERNでAIスライドを完全コントロール
+https://x.com/sho_ai_magic/status/2065657973310177539
